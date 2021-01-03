@@ -1,0 +1,16 @@
+{
+  "name": "nanoexpress-default-import",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/simple-doc.js"
+  },
+  "dependencies": {
+    "@nanoexpress/middleware-body-parser": "^1.0.1",
+    "@nanoexpress/middleware-schemator": "^1.0.0",
+    "@nanoexpress/middleware-static-serve": "^1.0.0",
+    "nanoexpress": "^2.4.4"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC"
+}
